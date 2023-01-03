@@ -13,3 +13,5 @@ Tasks to be solved: Using sklearn.make_classification to form a dataset of 1000 
 Tasks to be solved: For the implemented gradient boosting model, plot graphs of the error dependence on the number of trees in the ensemble and on the maximum depth of trees. Draw conclusions about the dependence of the error on these parameters; Modify the implemented algorithm to get stochastic gradient boosting. Take the size of the subsample to be 0.5. Compare the error curves on the test sample on the same graph, depending on the number of iterations.
 # 7. Classification using KNN. K-means clustering
 The tasks are solved: To the kNN algorithm implemented in the lesson, implement the addition of neighbor weights according to any of the principles shown in the lesson.
+# 8. Data dimensionality reduction
+Tasks to be solved: Is it possible to select the most significant features using PCA?; Train any classification model on the IRIS dataset before and after the use of PCA. Compare the quality of classification by deferred sampling; Write your own implementation of the principal component method using singular value decomposition using the numpy.linalg.svd() function.
