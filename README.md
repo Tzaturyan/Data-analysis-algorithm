@@ -15,3 +15,5 @@ Tasks to be solved: For the implemented gradient boosting model, plot graphs of 
 The tasks are solved: To the kNN algorithm implemented in the lesson, implement the addition of neighbor weights according to any of the principles shown in the lesson.
 # 8. Data dimensionality reduction
 Tasks to be solved: Is it possible to select the most significant features using PCA?; Train any classification model on the IRIS dataset before and after the use of PCA. Compare the quality of classification by deferred sampling; Write your own implementation of the principal component method using singular value decomposition using the numpy.linalg.svd() function.
+# 9. logistic-regression-binary-classification
+The problem of binary classification on Kaggle
